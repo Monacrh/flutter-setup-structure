@@ -1,4 +1,4 @@
-# online_shop_ai
+# Flutter setup
 
 A new Flutter project.
 
